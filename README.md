@@ -10,4 +10,4 @@ Contém todas as atividades desenvolvidas por mim durante minha tragetória na T
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
 - [x] 1.3 - Unix & Bash - Parte 1
-- [x] 1.4 - Unix & Bash - Parte 2
+- [x] 1.4 - Unix & Bash - Parte 2.
